@@ -7,3 +7,6 @@ Yǒng qí| Support
 @superyongqi
 
 https://t.me/LongPayapi
+
+#VICTORYPAY & Unofficial API
+@vtrsync
